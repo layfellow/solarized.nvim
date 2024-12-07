@@ -44,12 +44,12 @@ This fork has improved contrast compared to [the base Solarized theme](https://g
 Install via your favourite package manager:
 ```vim
 " If you are using Vim-Plug
-Plug 'shaunsingh/solarized.nvim'
+Plug 'layfellow/solarized.nvim'
 ```
 
 ```lua
 -- If you are using Packer
-use 'shaunsingh/solarized.nvim'
+use 'layfellow/solarized.nvim'
 ```
 
 ## Usage
