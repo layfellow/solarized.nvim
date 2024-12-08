@@ -6,7 +6,7 @@ local bases = {
 	base0 =         '#031416',
 	base1 =         '#133131',
 	base2 =         '#eee8d5',
-	base3 =         '#fdf6e3',
+	base3 =         '#fefbec',
 }
 
 local solarized = {
